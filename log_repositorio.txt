@@ -1,0 +1,5 @@
+commit 6786998918d4c0a54c529ae342d98baaa4102ee9
+Author: Your Name <biancabonani@gmail.com>
+Date:   Wed Apr 2 20:14:06 2025 +0200
+
+    Versao incial do projeto de factorial
